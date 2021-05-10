@@ -11,7 +11,7 @@ Player vs Monster
 
 # Attack Game
 
-img width="751" alt="Screenshot 2021-05-10 at 13 27 00" src="https://user-images.githubusercontent.com/11426981/117652662-b7fc3480-b193-11eb-98c8-96e94eeaac2e.png">
+<img width="751" alt="Screenshot 2021-05-10 at 13 27 00" src="https://user-images.githubusercontent.com/11426981/117652744-d5310300-b193-11eb-89db-89990192473e.png">
 
 # How to attack
 <img width="717" alt="Screenshot 2021-05-10 at 13 27 12" src="https://user-images.githubusercontent.com/11426981/117652681-be8aac00-b193-11eb-89f5-51cd1d9c4ba4.png">
