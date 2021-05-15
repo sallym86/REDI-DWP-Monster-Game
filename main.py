@@ -10,10 +10,10 @@ print('2) Heal')
 player_choice = input()
 
 if player_choice == '1':
-  print('Attack')
+  print('Attack! No mercy !')
   
 elif player_choice == '2':
-  print('Heal player')
+  print('Heal player -Huurry!')
 
 else:
   print('Something went wrong', 'Probably becasue Lucía edited it')
