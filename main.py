@@ -16,5 +16,7 @@ elif player_choice == '2':
   print('Heal player -Huurry!')
 
 else:
-  print('Something went wrong', 'Probably because Lucía edited it')
+  print('Something went wrong', 'Probably becasue Lucía edited it')
   print('Game over!')
+  print('Will it work now?!')
+ 
