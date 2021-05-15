@@ -15,4 +15,4 @@ elif player_choice == '2':
   print('Heal player')
 
 else:
-  print('Invalid Input')  
+  print('Something went wrong')  
